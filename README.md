@@ -1,5 +1,7 @@
 # Dria-Node-Full-Guide
 
+Full Compute Node Run Guide for Dria Airdrop
+
 **Install Ollama from here Copy this link and open in Any Browser (Choose Your OS)**
 
 ```
