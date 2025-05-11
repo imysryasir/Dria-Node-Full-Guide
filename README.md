@@ -50,7 +50,7 @@ powershell -c "irm https://dria.co/launcher.ps1 | iex"
 
 For VPS / Linux
 ```
-sudo dkn-compute-launcher start
+dkn-compute-launcher start
 ```
 **Windows or Command Prompt (CMD)**
 ```
@@ -83,7 +83,12 @@ dkn-compute-launcher.exe start
 
 
 # Optional Update Node (If you are Facing any Issues)
-## 1 Remove Dria (VPS/Linux)
+
+# Change Model 
+```
+dkn-compute-launcher settings
+```
+# Remove Dria (VPS/Linux)
 ```
 rm -rf ~/.dria
 ```
