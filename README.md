@@ -70,4 +70,26 @@ https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com
 
 
 
+## For Next Day Run This Command 
+
+#1 Open WSL and Put this Command **(VPS / Linux)**
+```
+dkn-compute-launcher start
+```
+**Windows or Command Prompt (CMD)**
+```
+dkn-compute-launcher.exe start
+```
+
+
+# Optional Update Node (If you are Facing any Issues)
+## 1 Remove Dria (VPS/Linux)
+```
+rm -rf ~/.dria
+```
+**Windows or Command Prompt (CMD)**
+```
+rd /s /q "%USERPROFILE%\.dria"
+```
+
 👉 Join TG for more Updates: https://t.me/kind_cr
